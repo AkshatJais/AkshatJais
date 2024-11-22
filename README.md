@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatjais&label=Profile%20views&color=0e75b6&style=flat" alt="akshatjais" /> </p>
 
+
+<img align="right" src="https://miro.medium.com/v2/1*AmI9wRbXrfIWGESx6eEiTw.gif">
+
 <p align="left"> <a href="https://twitter.com/jais_akshat" target="blank"><img src="https://img.shields.io/twitter/follow/jais_akshat?logo=twitter&style=for-the-badge" alt="jais_akshat" /></a> </p>
 
 - 🔭 I’m currently working on **Store_It**
@@ -16,7 +19,7 @@
 - 📫 How to reach me **akshatjaiswal4841@gmail.com**
 
 - ⚡ Fun fact **Sometimes I draw**
-<img src="https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jais_akshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jais_akshat" height="30" width="40" /></a>
