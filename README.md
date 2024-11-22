@@ -16,7 +16,7 @@
 - 📫 How to reach me **akshatjaiswal4841@gmail.com**
 
 - ⚡ Fun fact **Sometimes I draw**
-
+<img src="https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jais_akshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jais_akshat" height="30" width="40" /></a>
