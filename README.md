@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Store_It**
 
-- 🌱 I’m currently learning **NextJs,OpenShift**
+- 🌱 I’m currently learning **GO,GraphQL,OpenShift**
 
 - 👯 I’m looking to collaborate on **Cloud Native Applications**
 
